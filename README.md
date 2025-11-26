@@ -103,7 +103,7 @@ Explore charts to understand premium distribution, claim trends, and policy perf
 
 📷 Dashboard Preview
 
-![<img width="1898" height="891" alt="Image" src="https://github.com/user-attachments/assets/86dd9284-fd64-4cd1-9f4e-3fc5fa6ee7ce" />)
+<img width="1898" height="891" alt="Image" src="https://github.com/user-attachments/assets/86dd9284-fd64-4cd1-9f4e-3fc5fa6ee7ce" />
 
 🎯 Insights Derived
 
